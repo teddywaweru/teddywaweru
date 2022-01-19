@@ -10,18 +10,21 @@
 - 📫 How to reach me teddywaweru@gmail.com
 
 Current Projects
-MT4 Trading Platform Money Management Application
-Reporting on lost IDs via whatsapp
+1. MT4 Trading Platform Money Management Application
+2. Reporting on lost IDs via whatsapp
 
 
 Packages utilized
-Pandas, Pandas-ta, Azure's Form Recognizer API
+1. Pandas,
+2. Pandas-ta,
+3. Azure's Form Recognizer API
 
 Coding languages
-Python, mql4
+1. Python,
+2. MQL4
 
 Upcoming & future projects
-Greatness to come... 💪
+- Greatness to come... 💪
 
 <!---
 teddywaweru/teddywaweru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
