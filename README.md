@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teddywaweru
 - 👀 I’m interested in softwares with GUIs currently, transitioning into development🤞
-- 🌱 I’m currently learning Python & MQL4/MQL5, intended for use in
+- 🌱 I’m currently learning ![Python] & MQL4/MQL5, intended for use in
   1. Some personal projects
   2. Contribution to open source projects on Blender 3D software & MetaTrader trading platforms
   3. Data analaysis, analytics & machine learning.
