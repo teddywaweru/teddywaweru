@@ -2,7 +2,7 @@
 - 👀 I’m interested in softwares with GUIs currently, transitioning into development🤞
 - 🌱 I’m currently learning Python & MQL4/MQL5, intended for use in
   1. Some personal projects
-  2. Contribution to open source projects on Blender 3D software & MetaTrader trading platforms
+  2. Contribution to open source projects on ![Blender](https://img.shields.io/badge/Blender 3D-F5792A) software & MetaTrader trading platforms
   3. Data analaysis, analytics & machine learning.
 - 🧐 I have applicable knowledge in cloud computing, Front-End Web Development, Database & Network Administration
 - 🎓 I have an educational background in Electrical & Electronic Engineering.
