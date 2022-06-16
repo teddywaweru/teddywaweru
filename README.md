@@ -20,7 +20,7 @@ Packages utilized
 - Azure's Form Recognizer API
 
 Coding languages
-1. ![Python](https://img.shields.io/badge/Python-0000), ![MQL4/MQL5](https://img.shields.io/badge/MQL4/MQL5-0000)
+1. ![Python](https://img.shields.io/badge/Python-#3776AB), ![MQL4/MQL5](https://img.shields.io/badge/MQL4/MQL5-0000)
 2. Very very very newbie at ![C++](https://img.shields.io/badge/C++-0000)
 
 Upcoming & future projects
